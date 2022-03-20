@@ -1,0 +1,5 @@
+{
+	"requestType": "com.dell.cce.ar.model.request.GeneratorRequest",
+	"WRAPPED_JSON_REQUEST": "{\"payloadIdentifier\":{\"customerTransactionID\":\"277125888\",\"transactionNumber\":\"2470059167\",\"receiptID\":\"\",\"messageID\":null,\"batchID\":null,\"batchPayloadID\":null,\"segment\":null,\"payloadType\":\"Invoice\"},\"documentTemplateIdentifier\":{\"language\":\"EN\",\"payloadType\":null,\"isMerge\":\"Y\",\"groupBy\":\"\",\"totalCopies\":1,\"cfoDetails\":[{\"subType\":\"\",\"deliveryMethod\":\"E\",\"messageID\":null,\"documentContent\":null},{\"subType\":\"CNS\",\"deliveryMethod\":\"E\",\"messageID\":\"673854934\",\"documentContent\":null}],\"cfotype\":\"Credit\",\"bucode\":\"I3\"},\"centralBatchDocumentIdentifier\":null,\"testMode\":\"N\"}"
+}
+
